@@ -36,3 +36,17 @@ Requisitos Previos
    * Accede al panel de administración de WordPress y ve a **`Herramientas > Importar`**.
    * Selecciona la opción **"WordPress"** e importa el archivo **`bookmatch.wordpress.xml`** para cargar todo el contenido del sitio, incluyendo páginas y categorías.
    * Instala y activa los plugins necesarios para el proyecto (si se especifican en el repositorio).
+
+# Integrantes y Roles👥
+
+Oyente: Gabriel Pavon Molina [gabipavonmolina@gmail.com](mailto:gabipavonmolina@gmail.com) | GitHub: gavipavon01
+
+
+| Nombre | Rol |Sector | Correo | Github | DNI |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| Anabella Lujan Medrano | Scrum Master | Frontend  | Analujan761@gmail.com | Anaabella  | 46717059 |
+| Nadia Anahí Zambón | Desarrollador | Frontend | Nadianahi.20@gmail.com | Nadiazambon | 32589779  |
+| Claudia Del Pilar Farias  | Desarrollador | Backend | claudiafarias1881@gmail.com | Claudiafarias2022 |  28432825  |
+| Gabriel Agustin Pavon Molina | Oyente | Backend | gabi.pavonmolina@gmail.com | gabipavon01 |  43273165  |
+| Yohana Eugenia Grosso  | Desarrollador | Frontend | yohi.grosso@gmail.com | yohigf | 33061552 |
+| Maria Soledad Scarlata | Desarrollador | Backend | scarlatamarias@gmail.com | mariasoledadscarlata |  21967307  |
