@@ -1,11 +1,11 @@
 # BookFilm 📚
 
-Bookfilm es una empresa dedicada a transformar la industria editorial a través de la tecnología. Nuestra misión es proporcionar soluciones innovadoras que ayuden a las librerías a adaptarse al entorno digital, aumentar su alcance y mejorar su eficiencia. Creemos que la lectura es un pilar fundamental de la sociedad y que, al facilitar el acceso a libros nuevos y usados, podemos contribuir a una cultura más lectora y sostenible.
+Bookfilm es una empresa dedicada a transformar la industria editorial a través de la tecnología. Nuestra misión es proporcionar soluciones innovadoras que ayuden a las librerías a adaptarse al entorno digital, aumentar su alcance y mejorar su eficiencia. 
 
 
 # Fundamentación 💡
 
-**Bookfilm** es una empresa dedicada a la promoción y distribución de libros, con un enfoque especial en la sostenibilidad y la accesibilidad a la lectura. Nuestro objetivo es reducir el impacto ambiental de la industria editorial al fomentar la reutilización de libros y proporcionar soluciones económicas y sostenibles para los amantes de la lectura.
+**Bookfilm** Con el fin de optimizar la Gestión del control de Inventarios, plataformas E-commerce, aplicaciones móviles, las tiendas necesitan elevar los recursos e inversiones. BookFilm nace para dar respuesta a este nuevo desafío.
 
 # Instalación
 
